@@ -1,0 +1,47 @@
+body{
+    background: url(../img/background.jpg) no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: -webkit-fill-available;
+  }
+
+  .mytooltip {
+    position: relative;
+    display: inline-block;
+    border-bottom: 1px dotted black;
+  }
+  
+  .mytooltip .mytooltiptext {
+    visibility: hidden;
+    width: 250px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+    position: absolute;
+    z-index: 1;
+    left: calc(100% + 0.5em);
+      top: 50%;
+      transform: translateY(-50%);
+  }
+  
+  .mytooltip .mytooltiptext::after {
+    content: "";
+    position: absolute;
+    top: 50%;
+    right: 100%;
+    margin-top: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: transparent black transparent transparent;
+  }
+  .mytooltip:hover .mytooltiptext {
+    visibility: visible;
+  }
+  
+  .invalid{
+    color: red !important;
+  }
