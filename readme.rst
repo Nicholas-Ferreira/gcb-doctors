@@ -1,15 +1,15 @@
 ###################
 PROCESSO SELETIVO GCB
 ###################
-# ----------------------- # </br>
-# Desenvolver # </br>
-# ----------------------- # </br>
--> Crie uma interface (página na web) onde você consiga, CADASTRAR, ALTERAR e </br>
-EXCLUIR um médico. </br>
-Você deve salvar esses </br>
-dados no banco de dados. </br>
--> DIFERENCIAL (não é obrigatório): pesquisar um médico pelo nome ou CRM, </br>
-você decide. </br>
+# ----------------------- #<br/>
+# Desenvolver #<br/>
+# ----------------------- #<br/>
+-> Crie uma interface (página na web) onde você consiga, CADASTRAR, ALTERAR e<br/>
+EXCLUIR um médico.<br/>
+Você deve salvar esses<br/>
+dados no banco de dados.<br/>
+-> DIFERENCIAL (não é obrigatório): pesquisar um médico pelo nome ou CRM,<br/>
+você decide.<br/>
 -> O cadastro deve conter no mínimo as seguintes informações abaixo:</br>
 * Nome do médico</br>
 * CRM</br>
