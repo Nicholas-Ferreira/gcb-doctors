@@ -1,9 +1,7 @@
 ###################
 PROCESSO SELETIVO GCB
 ###################
-# ----------------------- # <br/>
-# Desenvolver # <br/>
-# ----------------------- # <br/>
+# Desenvolver 
 -> Crie uma interface (página na web) onde você consiga, CADASTRAR, ALTERAR e <br/>
 EXCLUIR um médico. <br/>
 Você deve salvar esses <br/>
@@ -18,15 +16,11 @@ você decide. <br/>
 * Especialidades em que atua (no mínimo 2), no final do arquivo você terá os</br>
 nomes de diversas especialidades,</br>
 como: FONOAUDIOLOGIA, ENDOCRINOLOGIA, GERIATRIA, HEMATOLOGIA, etc.</br>
-# ----------------------- #</br>
-# Informações adicionais: #</br>
-# ----------------------- #</br>
+# Informações adicionais: 
 Você deve usar o framework Codeigniter, MYSQL, Bootstrap para o form, jquery</br>
 com ajax para trazer a cidade ao selecionar o estado.</br>
 1) Faça da forma em que se sentir mais confortável, deixe sua imaginação fluir.</br>
-# ----------------------- #</br>
-# Especialidades a serem cadastradas no banco #</br>
-# ----------------------- #</br>
+# Especialidades a serem cadastradas no banco
 * • ALERGOLOGIA</br>
 * • ANGIOLOGIA</br>
 * • BUCO MAXILO</br>
